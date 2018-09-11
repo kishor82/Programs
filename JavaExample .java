@@ -1,8 +1,8 @@
 class JavaExample{
 	public static void main(String[] args) {
 	int sum=0,i,num;
-
-	for(int j=0;j<=9999;j++){
+	// Program to find armstrong
+	for(int j=99;j<=999;j++){
 		num=j;
 		while(num!=0){
 		i=num% 10;	
